@@ -1,6 +1,6 @@
 # About
 
-`adjust.py` rewrites a pcap with different timestamps based on a reference file. It is meant to make it easier to merge pcaps from different time periods. This script differs from those in [Other Resources](#Other%20Resources) below because it will also scale timestamps. 
+`adjust.py` rewrites a pcap with different timestamps based on a reference file. It is meant to make it easier to merge pcaps from different time periods. This script differs from those in [Other Resources](#other-resources) below because it will also scale timestamps. 
 
 # Purpose
 
